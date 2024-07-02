@@ -26,12 +26,23 @@
     </td>
 </tr>
 <tr>
-    <th align="center" colspan="1">
-        <small>basicJS</small>
+<th align="center" style="width: 50%;">
+        <img width="430" height="1">
+        <p> 
+            <small>
+                BasicJS
+            </small>
+        </p>
     </th>
-    <th align="center" colspan="1">
-        <small>advancedJS</small>
+    <th align="center" style="width: 50%;">
+        <img width="430" height="1">
+        <p> 
+            <small>
+                AdvancedJS
+            </small>
+        </p>
     </th>
+
 </tr>
 <tr>
     <td align="center">
