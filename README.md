@@ -56,7 +56,6 @@
         <img width="860" height="1"> 
         <p>
             <small>
-                EMPTY LINE
             </small>
         </p>
     </th>
