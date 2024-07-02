@@ -47,7 +47,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_tailwind_animated-template/">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:120px; height:auto;" alt="Repo">
+            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <a href="https://shcoobz.github.io/basicJS_tailwind_animated-template/">
             <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
@@ -55,7 +55,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_tailwind_animated-template">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:120px; height:auto;" alt="Repo">
+            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <a href="https://shcoobz.github.io/advancedJS_tailwind_animated-template/">
             <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
