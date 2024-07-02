@@ -81,6 +81,24 @@
     </td>
 </tr>
 <tr>
+  <th align="center" style="width: 50%;">
+        <img width="430" height="1">
+        <p> 
+            <small>
+                BasicJS
+            </small>
+        </p>
+    </th>
+    <th align="center" style="width: 50%;">
+        <img width="430" height="1">
+        <p>
+            <small>
+                AdvancedJS
+            </small>
+        </p>
+    </th>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_figma_splash-page">
             <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
