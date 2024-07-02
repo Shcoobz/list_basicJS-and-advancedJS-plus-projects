@@ -3,7 +3,7 @@
 <table>
 <tr>
     <th align="center">
-        <img width="170" height="1">
+        <img width="430" height="1">
         <p> 
             <small>
                 Project Name
@@ -11,16 +11,21 @@
         </p>
     </th>
     <th align="center">
-        <img width="350" height="1">
+        <img width="430" height="1">
         <p> 
             <small>
                 Image
             </small>
         </p>
     </th>
+<tr>
+    <td align="center"><strong>Tailwind: Animated Template</strong></td>
+    <td align="center"><img src="img/basicJS_tailwind_animated-template.png" alt="Basic Tailwind Template" width="350"></td>
+</tr>
+<tr>
     <th align="center">
         <img width="170" height="1">
-        <p> 
+        <p>
             <small>
                 basicJS Repo
             </small>
@@ -28,7 +33,7 @@
     </th>
     <th align="center">
         <img width="170" height="1">
-        <p> 
+        <p>
             <small>
                 basicJS Demo
             </small>
@@ -36,7 +41,7 @@
     </th>
     <th align="center">
         <img width="170" height="1">
-        <p> 
+        <p>
             <small>
                 advancedJS Repo
             </small>
@@ -44,7 +49,7 @@
     </th>
     <th align="center">
         <img width="170" height="1">
-        <p> 
+        <p>
             <small>
                 advancedJS Demo
             </small>
@@ -52,9 +57,7 @@
     </th>
 </tr>
 <tr>
-    <td align="center"><strong>Tailwind: Animated Template</strong></td>
-    <td align="center"><img src="img/basicJS_tailwind_animated-template.png" alt="Basic Tailwind Template" width="350"></td>
-    <td align="center">
+ <td align="center">
       <a href="https://github.com/Shcoobz/basicJS_tailwind_animated-template/"><img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:120px; height:auto;" alt="Repo" ></a>
     </td>
     <td align="center">
@@ -66,6 +69,10 @@
     <td align="center">
       <a href="https://shcoobz.github.io/advancedJS_tailwind_animated-template/"><img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo" ></a>
     </td>
+</tr>
+
+## testing
+
 </tr>
 <tr>
     <td align="center"><strong>Figma: Splash Page</strong></td>
