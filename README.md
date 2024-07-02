@@ -66,10 +66,9 @@
 
 <tr>
     <td align="center" colspan="2">
-        <img width="860" height="1"> 
         <p>
-            <small> >>> ----- <<<
-            </small>
+          <small> >>> ----- <<<
+          </small>
         </p>
     </td>
 </tr>
