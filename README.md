@@ -25,7 +25,7 @@
         <img src="img/basicJS_tailwind_animated-template.png" alt="Basic Tailwind Template" width="350">
     </td>
 </tr>
-<tr>
+
 <tr>
     <th align="center" colspan="2">
         <small>BasicJS</small>
