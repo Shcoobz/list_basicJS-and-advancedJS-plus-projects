@@ -1,8 +1,12 @@
 <table>
 <!-- Tailwind: Animated Template -->
 <tr>
-  <td align="center"><strong>Tailwind: Animated Template</strong></td>
   <td align="center">
+  <img width="441" height="1px">
+  <p><strong>Tailwind: Animated Template</strong></p>
+  </td>
+  <td align="center">
+   <img width="441" height="1px">
     <img src="img/basicJS_tailwind_animated-template.png" alt="Tailwind Animated Template" width="350" />
   </td>
 </tr>
